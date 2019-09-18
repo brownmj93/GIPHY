@@ -1,0 +1,18 @@
+.btnClass {
+  margin: 20px;
+  margin-right: 10px;
+  }
+#inputSection {
+  margin-top: 20px;
+}
+#userInput {
+  margin-bottom: 20px;
+}
+.rating {
+  display: block;
+}
+
+.gifDiv {
+  float: left;
+  margin: 10px;
+}
